@@ -15,3 +15,5 @@ switch(food){
   default:
     console.log("Not in the menu");
 }
+
+// output - grill chicken is great
